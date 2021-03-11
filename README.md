@@ -1,2 +1,2 @@
 # C
-Alguns códigos que desenvolvo na matéria de Laboratório de Informática 
+Alguns códigos em C que desenvolvo na matéria de Laboratório de Informática 
